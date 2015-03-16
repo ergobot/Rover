@@ -2,11 +2,11 @@
 // http://github.com/ergobot/rover
 
 /*
-Sketch to be used with adafruit arduino motor shield
-http://www.adafruit.com/products/1438
-
-Example taken from here:
-https://github.com/adafruit/Adafruit-Motor-Shield-library/blob/master/examples/MotorTest/MotorTest.pde
+* Sketch to be used with adafruit arduino motor shield
+* http://www.adafruit.com/products/1438
+* 
+* Example taken from here:
+* https://github.com/adafruit/Adafruit-Motor-Shield-library/blob/master/examples/MotorTest/MotorTest.pde
 */
 
 #include <AFMotor.h>
