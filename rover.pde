@@ -1,6 +1,14 @@
 // public use - use how you want or need
 // http://github.com/ergobot/rover
 
+/*
+Sketch to be used with adafruit arduino motor shield
+http://www.adafruit.com/products/1438
+
+Example taken from here:
+https://github.com/adafruit/Adafruit-Motor-Shield-library/blob/master/examples/MotorTest/MotorTest.pde
+*/
+
 #include <AFMotor.h>
 
 // motors 
@@ -12,6 +20,12 @@ AF_DCMotor right;
 // Adafruit Motor shield library
 // copyright Adafruit Industries LLC, 2009
 // this code is public domain, enjoy!
+
+
+
+
+// serial monitor tutorial:
+// https://learn.adafruit.com/adafruit-arduino-lesson-5-the-serial-monitor/the-serial-monitor
 
 void setup() {
 	// 115200 for the bluetooth
